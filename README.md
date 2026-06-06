@@ -1,7 +1,5 @@
 # Hi 👋, I'm Hirru
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=H1rru2410&label=Profile views&color=0e75b6&style=flat" alt="H1rru2410" /> </p>
-
 - 🌱 I'm currently learning **C++ **
 
 - ⚡ Fun fact : **I'm an editor using Adobe After Effect... and I'm starting to learn programming!!!**
