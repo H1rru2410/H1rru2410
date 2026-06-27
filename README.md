@@ -2,7 +2,8 @@
 
 - 🌱 I'm currently learning **C++ **
 
-- ⚡ Fun fact : **I'm an editor using Adobe After Effect... and I'm starting to learn programming!!!**
+- ⚡ Fun fact : **I'm an editor using Adobe After Effect... and I'm starting to learn programming !!!**
+- ❤ Insteresting : **JUST WEB AND REVERSED EXPLOITATION**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
